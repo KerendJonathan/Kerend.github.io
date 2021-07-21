@@ -1,0 +1,77 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Hero Banner/Jumbotron */
+.jumbotron {
+    color: White;
+    padding-top: 6rem;
+    background-color: rgb(10, 82, 216);
+}
+
+.card {
+    background-color: rgb(10, 82, 216);
+    color: white;
+}
+
+#contact {
+    color: rgb(0, 0, 0);
+    padding-top: 10rem;
+    
+}
+
+#about {
+    color: rgb(0, 0, 0);
+    padding-top: 10rem;
+    
+}
+
+
+
+/* .rounded-circle {
+    transition: ease-in-out 0.2s;
+}
+
+.rounded-circle:hover {
+    width: 230px;
+} */
+
+#form {
+    color: rgb(0, 0, 0);
+    padding-top: 5rem;
+    
+}
+
+
+/* Projects */
+#projects {
+    background-color:  rgb(10, 82, 216);
+}
+
+/* About */
+
+
+.about {
+    transition: ease-in-out 0.2s;
+   
+}
+
+section {
+    padding-top: 5rem;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border: #01073d 3px solid;
+    border-radius: 2px;
+    width: 14px;
+    background-image: linear-gradient(rgb(3, 61, 168), #00aeff);
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgb(2, 25, 68);
+}
